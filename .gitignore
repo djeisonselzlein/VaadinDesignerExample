@@ -5,6 +5,7 @@
 /.project
 /.tomcatplugin
 /.settings
+/.designer
 /work
 /.gwt-cache
 /.externalToolBuilders
